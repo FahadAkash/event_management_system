@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=F:\gihtub\Event-Management-System\Python\event"
+set "VIRTUAL_ENV=F:\gihtub\event_management_system\event"
 
 if not defined PROMPT set PROMPT=$P$G
 
